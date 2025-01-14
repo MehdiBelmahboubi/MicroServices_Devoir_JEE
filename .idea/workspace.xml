@@ -85,6 +85,8 @@
       <workItem from="1736790825633" duration="452000" />
       <workItem from="1736791315408" duration="24000" />
       <workItem from="1736791343469" duration="7000" />
+      <workItem from="1736791361530" duration="2539000" />
+      <workItem from="1736877808591" duration="1100000" />
     </task>
     <task id="LOCAL-00001" summary="Add Config Microservices">
       <option name="closed" value="true" />
@@ -110,7 +112,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736720712893</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add cloud config dependencies for commandes microservices">
+      <option name="closed" value="true" />
+      <created>1736791669053</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736791669054</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add Config Server">
+      <option name="closed" value="true" />
+      <created>1736791684095</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1736791684095</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +138,8 @@
     <MESSAGE value="Add Config Microservices" />
     <MESSAGE value="Modify Config Microservices" />
     <MESSAGE value="Add commandes microservices" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add commandes microservices" />
+    <MESSAGE value="add cloud config dependencies for commandes microservices" />
+    <MESSAGE value="add Config Server" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Config Server" />
   </component>
 </project>
